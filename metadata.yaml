@@ -1,11 +1,16 @@
 _repo: Observations-of-an-Illinois-Boy-in-Battle-Camp-and-Prisons1861-to-1865_58466
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58466-h/images/cover.jpg
 creator:
   author:
     agent_name: Eby, Henry H.
     gutenberg_agent_id: '49971'
     url: http://www.gutenberg.org/2009/agents/49971
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58466#Observations-of-an-Illinois-Boy-in-Battle-Camp-and-Prisons1861-to-1865
 gutenberg_issued: '2018-12-13'
 gutenberg_type: Text
 identifiers:
